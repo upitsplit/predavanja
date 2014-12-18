@@ -1,0 +1,6 @@
+#######################################
+Čisto napomena za korištenje datoteka!
+#######################################
+Ako želite pokretati php skripte morate postaviti lokalni server na vaše računalo.
+Ukoliko ne znate postaviti server možete provjeriti na našoj stranici
+http://upitsplit.hr/lamp ili http://upitsplit.hr/php-predavanje
